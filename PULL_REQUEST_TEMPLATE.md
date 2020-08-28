@@ -1,11 +1,11 @@
 ## [gndx@stream]:~$ Porfolio Review
 
-- Name:
-- Twitter:
-- URL:
+- Name: Simón Torres  
+- Twitter: No uso twitter
+- URL: https://simon-torres.vercel.app/
 
 ## Type:
-  - [ ] Portafolio
+  - [x] Portafolio
   - [ ] Blog
   - [ ] Website
   - [ ] Otro
