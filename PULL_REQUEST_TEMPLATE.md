@@ -1,12 +1,12 @@
 ## [gndx@stream]:~\$ Porfolio Review
 
-- Name: Ricardo
-- Twitter: @Ricqrdo__
-- URL: https://ricqrdo.netlify.app/
+- Name:
+- Twitter: 
+- URL: 
 
 ## Type:
 
-- [x] Portafolio
+- [ ] Portafolio
 - [ ] Blog
 - [ ] Website
 - [ ] Otro
