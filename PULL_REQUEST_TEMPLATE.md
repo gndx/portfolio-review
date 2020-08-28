@@ -1,11 +1,12 @@
-## [gndx@stream]:~$ Porfolio Review
+## [gndx@stream]:~\$ Porfolio Review
 
-- Name:
+- Name: Valentino Torres
 - Twitter:
-- URL:
+- URL: https://portfolio.valentinot.vercel.app/
 
 ## Type:
-  - [ ] Portafolio
-  - [ ] Blog
-  - [ ] Website
-  - [ ] Otro
+
+- [x] Portafolio
+- [x] Blog
+- [ ] Website
+- [ ] Otro
