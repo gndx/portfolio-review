@@ -1,6 +1,6 @@
 # portfolio-review
-[gndx@stream]:~$ /dev/night-talk portfolio-reviews.js
 
+[gndx@stream]:~\$ /dev/night-talk portfolio-reviews.js
 
 ### Envia tu Portafolio/Blog/Website
 
@@ -16,4 +16,5 @@ Viernes 28 de Agosto 9:45 P.M. en [YouTube.com/oscarbarajas](https://youtube.com
 ### Portafolios
 
 1. https://gndx.dev
-2. 
+3. 
+2. https://ricqrdo.netlify.app/
