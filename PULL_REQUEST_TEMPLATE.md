@@ -1,11 +1,11 @@
 ## [gndx@stream]:~$ Porfolio Review
 
-- Name: Ricardo 
-- Twitter: Ricqrdo__
-- URL: ricqrdo.com
+- Name: 
+- Twitter: 
+- URL: 
 
 ## Type:
-  - [ * ] Portafolio
+  - [ ] Portafolio
   - [ ] Blog
   - [ ] Website
   - [ ] Otro
