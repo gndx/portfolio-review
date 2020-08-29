@@ -1,11 +1,11 @@
 ## [gndx@stream]:~$ Porfolio Review
 
-- Name:
-- Twitter:
-- URL:
+- Name: Ivan Bautista
+- Twitter: https://twitter.com/ivanrice_
+- URL: https://ivanrice.herokuapp.com/
 
 ## Type:
-  - [ ] Portafolio
+  - [x] Portafolio
   - [ ] Blog
-  - [ ] Website
+  - [x] Website
   - [ ] Otro
