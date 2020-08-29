@@ -1,11 +1,11 @@
 ## [gndx@stream]:~$ Porfolio Review
 
-- Name:
-- Twitter:
-- URL:
+- Name: Alejandro Roa
+- Twitter: @alejandroroa04
+- URL: https://alejandroroa.now.sh/
 
 ## Type:
   - [ ] Portafolio
-  - [ ] Blog
-  - [ ] Website
+  - [x] Blog
+  - [x] Website
   - [ ] Otro
