@@ -1,6 +1,6 @@
 # portfolio-review
-[gndx@stream]:~$ /dev/night-talk portfolio-reviews.js
 
+[gndx@stream]:~\$ /dev/night-talk portfolio-reviews.js
 
 ### Envia tu Portafolio/Blog/Website
 
@@ -11,9 +11,10 @@
 
 ### LIVE
 
-Viernes 28 de Agosto 9:45 P.M. en [YouTube.com/oscarbarajas](https://youtube.com/oscarbarajas)
+Viernes 28 de Agosto 9:45 P.M. en
+[YouTube.com/oscarbarajas](https://youtube.com/oscarbarajas)
 
 ### Portafolios
 
 1. https://gndx.dev
-2. 
+2. https://juanprm.dev/
