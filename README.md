@@ -11,7 +11,7 @@
 
 ### LIVE
 
-Viernes 28 de Agosto 9:45 P.M. en [YouTube.com/oscarbarajas](https://youtube.com/oscarbarajas)
+Viernes 13 de Agosto 8:45 P.M. en [YouTube.com/oscarbarajas](https://youtube.com/oscarbarajas)
 
 ### Portafolios
 
