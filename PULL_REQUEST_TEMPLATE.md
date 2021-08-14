@@ -1,11 +1,11 @@
 ## [gndx@stream]:~$ Porfolio Review
 
-- Name:
-- Twitter:
-- URL:
+- Name: Andersson Ramirez
+- Twitter: @SirAnderss
+- URL: https://siranderss.com/
 
 ## Type:
-  - [ ] Portafolio
+  - [x] Portafolio
   - [ ] Blog
   - [ ] Website
   - [ ] Otro
