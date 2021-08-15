@@ -1,11 +1,11 @@
 ## [gndx@stream]:~$ Porfolio Review
 
-- Name:
-- Twitter:
-- URL:
+- Name: Mario Fernandez S
+- Twitter: https://twitter.com/mariuscaribe
+- URL:  https://mariuscaribe.github.io/mpnsigths/
 
 ## Type:
-  - [ ] Portafolio
+  - [x] Portafolio
   - [ ] Blog
-  - [ ] Website
+  - [x] Website
   - [ ] Otro
