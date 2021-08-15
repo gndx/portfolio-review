@@ -1,11 +1,11 @@
 ## [gndx@stream]:~$ Porfolio Review
 
-- Name:
-- Twitter:
-- URL:
+- Name: Nicolás Rozo
+- Twitter: @NikoRozoArch
+- URL: https://nikorz.dev/
 
 ## Type:
-  - [ ] Portafolio
-  - [ ] Blog
-  - [ ] Website
+  - [X] Portafolio
+  - [X] Blog
+  - [X] Website
   - [ ] Otro
