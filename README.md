@@ -11,7 +11,7 @@
 
 ### LIVE
 
-Viernes 13 de Agosto 8:45 P.M. en [YouTube.com/oscarbarajas](https://youtube.com/oscarbarajas)
+Sabado 11 de Septiembre del 2021 9:45 P.M. en [YouTube.com/oscarbarajas](https://youtube.com/oscarbarajas)
 
 ### Portafolios
 
