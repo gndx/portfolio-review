@@ -1,11 +1,11 @@
 ## [gndx@stream]:~$ Porfolio Review
 
-- Name:
-- Twitter:
-- URL:
+- Name: Alex Garrixen
+- Twitter: @AlexGarrixen
+- URL: https://alexgarrixen.vercel.app/
 
 ## Type:
-  - [ ] Portafolio
+  - [x] Portafolio
   - [ ] Blog
-  - [ ] Website
+  - [x] Website
   - [ ] Otro
