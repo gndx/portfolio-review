@@ -1,11 +1,12 @@
-## [gndx@stream]:~$ Porfolio Review
+## [gndx@stream]:~\$ Porfolio Review
 
-- Name:
-- Twitter:
-- URL:
+- Name: José Hidalgo
+- Twitter: https://twitter.com/imjosehidalgo (@imjosehidalgo)
+- URL: https://imjosehidalgo.vercel.app/
 
 ## Type:
-  - [ ] Portafolio
-  - [ ] Blog
-  - [ ] Website
-  - [ ] Otro
+
+- [x] Portafolio
+- [ ] Blog
+- [ ] Website
+- [ ] Otro
