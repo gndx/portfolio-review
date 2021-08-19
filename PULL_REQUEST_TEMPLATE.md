@@ -1,11 +1,11 @@
 ## [gndx@stream]:~$ Porfolio Review
 
-- Name:
+- Name: José Alarcón  
 - Twitter:
-- URL:
+- URL: https://jose-alarcon.com
 
 ## Type:
-  - [ ] Portafolio
+  - [X] Portafolio
   - [ ] Blog
   - [ ] Website
   - [ ] Otro
