@@ -2,7 +2,7 @@
 
 - Name: José Alarcón  
 - Twitter:
-- URL:hhtps://jose-alarcon.com
+- URL: https://jose-alarcon.com
 
 ## Type:
   - [X] Portafolio
