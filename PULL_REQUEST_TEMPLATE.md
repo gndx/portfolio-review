@@ -1,11 +1,11 @@
 ## [gndx@stream]:~$ Porfolio Review
 
-- Name:
-- Twitter:
-- URL:
+- Name: Alex Junior
+- Twitter: @asegundo442
+- URL: https://alexsegundo.com
 
 ## Type:
-  - [ ] Portafolio
+  - [x] Portafolio
   - [ ] Blog
   - [ ] Website
   - [ ] Otro
