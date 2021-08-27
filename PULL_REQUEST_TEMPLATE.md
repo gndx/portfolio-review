@@ -2,10 +2,10 @@
 
 - Name: Yadurani López
 - Twitter: [@YaduLopezRivera](https://twitter.com/YaduLopezRivera)
-- URL: (https://yadulopez.com/)
+- URL: https://yadulopez.com/
 
 ## Type:
-  - [*] Portafolio
+  - [x] Portafolio
   - [ ] Blog
   - [ ] Website
   - [ ] Otro
