@@ -2,7 +2,7 @@
 
 - Name: Paúl Terán
 - Twitter: @PalTern1
-- URL: https://paul-teran.com/
+- URL: https://paul-teran.com
 
 ## Type:
   - [x] Portafolio
