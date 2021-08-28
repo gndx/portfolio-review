@@ -1,11 +1,11 @@
 ## [gndx@stream]:~$ Porfolio Review
 
-- Name:
-- Twitter:
-- URL:
+- Name: Paúl Terán
+- Twitter: @PalTern1
+- URL: https://paul-teran.com
 
 ## Type:
-  - [ ] Portafolio
-  - [ ] Blog
-  - [ ] Website
+  - [x] Portafolio
+  - [x] Blog
+  - [x] Website
   - [ ] Otro
