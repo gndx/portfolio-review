@@ -1,11 +1,11 @@
 ## [gndx@stream]:~$ Porfolio Review
 
-- Name:
-- Twitter:
-- URL:
+- Name: Antonio Benalcázar
+- Twitter: https://twitter.com/SoloEscuchoRap 
+- URL: https://antoniobenalcazar.me/
 
 ## Type:
   - [ ] Portafolio
   - [ ] Blog
-  - [ ] Website
+  - [ x ] Website
   - [ ] Otro
