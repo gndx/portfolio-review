@@ -1,11 +1,11 @@
 ## [gndx@stream]:~$ Porfolio Review
 
-- Name:
+- Name: Carlos Aguirre
 - Twitter:
-- URL:
+- URL: https://www.carlosaguirre.tech/
 
 ## Type:
-  - [ ] Portafolio
+  - [X] Portafolio
   - [ ] Blog
   - [ ] Website
   - [ ] Otro
