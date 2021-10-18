@@ -1,11 +1,11 @@
 ## [gndx@stream]:~$ Porfolio Review
 
-- Name:
-- Twitter:
-- URL:
+- Name: Felipe Layos
+- Twitter: https://twitter.com/jfelipelayos
+- URL: https://jfelipelayos.tech/
 
 ## Type:
-  - [ ] Portafolio
+  - [x] Portafolio
   - [ ] Blog
   - [ ] Website
   - [ ] Otro
