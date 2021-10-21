@@ -1,11 +1,11 @@
 ## [gndx@stream]:~$ Porfolio Review
 
-- Name:
-- Twitter:
-- URL:
+- Name: Franco Borgiani
+- Twitter: @BorgianiGabriel
+- URL: 'https://franborgiani.com'
 
 ## Type:
-  - [ ] Portafolio
+  - [ X ] Portafolio
   - [ ] Blog
   - [ ] Website
   - [ ] Otro
