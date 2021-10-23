@@ -1,11 +1,11 @@
 ## [gndx@stream]:~$ Porfolio Review
 
-- Name:
-- Twitter:
-- URL:
+- Name: Nelson R. Graña
+- Twitter: @nelsongraa8
+- URL: https://nelsongraa8.vercel.app
 
 ## Type:
-  - [ ] Portafolio
+  - [X] Portafolio
   - [ ] Blog
   - [ ] Website
   - [ ] Otro
