@@ -1,11 +1,10 @@
 ## [gndx@stream]:~$ Porfolio Review
 
-- Name:
-- Twitter:
-- URL:
-
+- Name: Robert Molina
+- Twitter: No
+- URL: https://roberto-molina-portfolio.netlify.app/
 ## Type:
-  - [ ] Portafolio
+  - [x] Portafolio
   - [ ] Blog
   - [ ] Website
   - [ ] Otro
