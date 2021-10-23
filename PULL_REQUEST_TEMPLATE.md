@@ -1,11 +1,12 @@
 ## [gndx@stream]:~$ Porfolio Review
 
-- Name:
-- Twitter:
-- URL:
+- Name: Ivan Zaldivar
+- Twitter: https://twitter.com/ToSatn2
+- URL: https://ivanzaldivarm.web.app
+- Repo: https://github.com/IvanZM123/portfolio
 
 ## Type:
-  - [ ] Portafolio
+  - [X] Portafolio
   - [ ] Blog
   - [ ] Website
   - [ ] Otro
