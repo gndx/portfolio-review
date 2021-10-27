@@ -1,11 +1,11 @@
 ## [gndx@stream]:~$ Porfolio Review
 
-- Name:
-- Twitter:
-- URL:
+- Name: Daniel Rojas Zúñiga
+- Twitter: https://twitter.com/cld_rojas
+- URL: https://cldrojas.com
 
 ## Type:
-  - [ ] Portafolio
+  - [x] Portafolio
   - [ ] Blog
   - [ ] Website
   - [ ] Otro
