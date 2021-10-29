@@ -1,11 +1,12 @@
 ## [gndx@stream]:~$ Porfolio Review
 
-- Name:
-- Twitter:
-- URL:
+- Name: Kev Farid
+- Twitter: https://twitter.com/KevFarid_
+- URL: https://www.kevinfarid.com/
+- Repo: https://github.com/KevFarid/kevinfarid.com
 
 ## Type:
-  - [ ] Portafolio
+  - [x] Portafolio
   - [ ] Blog
   - [ ] Website
   - [ ] Otro
