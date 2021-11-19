@@ -5,13 +5,14 @@
 [gndx@stream]:~$ Porfolio Review
 
 
-Name: Oliver Daniel Carvajal 
-Twitter: I don't have 
-URL: https://www.dannycarvajal.com/
+Name: Oliver Daniel Carvajal <br>
+Twitter: I don't have <br>
+URL: https://www.dannycarvajal.com/ <br>
 I enjoyed so much doing this project and I am glad to hear your feedback:) Thank you so much
+<br>
 
-Type: 
- Portafolio ☑️
- Blog
- Website
- Otro
+Type: <br> 
+ Portafolio ☑️ <br>
+ Blog <br>
+ Website <br>
+ Otro<br>
