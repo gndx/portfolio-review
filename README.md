@@ -2,18 +2,18 @@
 [gndx@stream]:~$ /dev/night-talk portfolio-reviews.js
 
 
-### Envia tu Portafolio/Blog/Website
+[gndx@stream]:~$ Porfolio Review
 
-1. Realiza un Fork de este repositorio.
-2. Agrega tu URL a la lista.
-3. Envia tu PR, No olvides llenar el formato del Pull Request.
-4. Nos vemos en el LIVE.
 
-### LIVE
+Name: Oliver Daniel Carvajal <br>
+Twitter: I don't have <br>
+URL: https://www.dannycarvajal.com/ <br>
+REPO: https://github.com/DannyCarvajal/portfolio <br>
+I enjoyed so much doing this project and I am glad to hear your feedback:) Thank you so much
+<br>
 
-Sabado 11 de Septiembre del 2021 9:45 P.M. en [YouTube.com/oscarbarajas](https://youtube.com/oscarbarajas)
-
-### Portafolios
-
-1. https://gndx.dev
-2. 
+Type: <br> 
+ Portafolio ☑️ <br>
+ Blog <br>
+ Website <br>
+ Otro<br>
